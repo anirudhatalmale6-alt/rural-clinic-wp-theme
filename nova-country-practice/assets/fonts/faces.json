@@ -1,0 +1,44 @@
+[
+ {
+  "fam": "Newsreader",
+  "wt": "300",
+  "st": "italic",
+  "file": "Newsreader-300-italic.woff2"
+ },
+ {
+  "fam": "Newsreader",
+  "wt": "200",
+  "st": "normal",
+  "file": "Newsreader-200-normal.woff2"
+ },
+ {
+  "fam": "Newsreader",
+  "wt": "300",
+  "st": "normal",
+  "file": "Newsreader-300-normal.woff2"
+ },
+ {
+  "fam": "Newsreader",
+  "wt": "400",
+  "st": "normal",
+  "file": "Newsreader-400-normal.woff2"
+ },
+ {
+  "fam": "Instrument Sans",
+  "wt": "400",
+  "st": "normal",
+  "file": "InstrumentSans-400-normal.woff2"
+ },
+ {
+  "fam": "Instrument Sans",
+  "wt": "500",
+  "st": "normal",
+  "file": "InstrumentSans-500-normal.woff2"
+ },
+ {
+  "fam": "Instrument Sans",
+  "wt": "600",
+  "st": "normal",
+  "file": "InstrumentSans-600-normal.woff2"
+ }
+]
